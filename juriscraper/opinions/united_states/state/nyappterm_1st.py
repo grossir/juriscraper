@@ -3,19 +3,25 @@
 # Court Short Name: NY
 
 import re
-from datetime import date, timedelta
-from typing import Any, Dict
+from datetime import date, timedelta, datetime
+from typing import Any, Dict, Tuple, List
 
 from juriscraper.OpinionSiteLinear import OpinionSiteLinear
 
 
-class Site(OpinionSiteLinear):
+class NYSlipDecisionsSite(OpinionSiteLinear):
+    url = "https://iapps.courts.state.ny.us/lawReporting/Search?searchType=opinion"
+    court: str  # Must be defined on inheriting classes
+
+    first_document_date: str  # in the %m/%d/%Y format
+    search_interval_days: int  # Size of interval were site returns less than 500 results
+    back_scrape_iterable: List[Tuple[str, str]]
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.court = "Appellate Term, 1st Dept"
         self.court_id = self.__module__
-        self.url = "https://iapps.courts.state.ny.us/lawReporting/Search?searchType=opinion"
         self._set_parameters()
+        self.create_back_scrape_iterable()
 
     def _set_parameters(self) -> None:
         """Set the parameters for the POST request."""
@@ -37,7 +43,7 @@ class Site(OpinionSiteLinear):
             "OffPage": "",
             "fullText": "",
             "and_or2": "and",
-            "Order_By": "Party Name",
+            "Order_By": "Decision Date",
             "Submit": "Find",
             "hidden1": "",
             "hidden2": "",
@@ -45,11 +51,13 @@ class Site(OpinionSiteLinear):
 
     def _process_html(self):
         for row in self.html.xpath(".//table")[-1].xpath(".//tr")[1:]:
-            slip_cite = " ".join(row.xpath("./td[5]//text()"))
             official_citation = " ".join(row.xpath("./td[4]//text()"))
+            slip_cite = " ".join(row.xpath("./td[5]//text()"))
+            status = "Unpublished" if "(U)" in slip_cite else "Published"
+
             url = row.xpath(".//a")[0].get("href")
             url = re.findall(r"(http.*htm)", url)[0]
-            status = "Unpublished" if "(U)" in slip_cite else "Published"
+
             self.cases.append(
                 {
                     "name": row.xpath(".//td")[0].text_content(),
@@ -82,3 +90,32 @@ class Site(OpinionSiteLinear):
             },
         }
         return metadata
+
+    def create_back_scrape_iterable(self):
+        # TODO: wip
+        # TODO: redefine all the sources that use this template
+        self.first_document_date = "01/11/2001"
+        self.search_interval_days = 15
+
+        start_date = datetime.strptime(
+            self.first_document_date, "%m/%d/%Y"
+        ) - timedelta(days=1)
+        today = date.today()
+
+    def _download_backwards(self, date_range: Tuple[str, str]) -> None:
+        """Method used by backscraper to download historical records
+
+        :param date_range: a tuple where the first member is the start date
+                            and the second member is the end date
+        :return: None
+        """
+        self.parameters.update(
+            {
+                "dtStartDate": date_range[0],
+                "dtEndDate": date_range[1],
+            }
+        )
+
+
+class Site(NYSlipDecisionsSite):
+    court = "Appellate Term, 1st Dept"
