@@ -3,25 +3,38 @@
 # Court Short Name: NY
 
 import re
-from datetime import date, timedelta, datetime
-from typing import Any, Dict, Tuple, List
+from datetime import date, timedelta
+from typing import Any, Dict, List, Tuple
 
+from juriscraper.AbstractSite import logger
+from juriscraper.lib.date_utils import make_date_range_tuples
 from juriscraper.OpinionSiteLinear import OpinionSiteLinear
 
 
-class NYSlipDecisionsSite(OpinionSiteLinear):
-    url = "https://iapps.courts.state.ny.us/lawReporting/Search?searchType=opinion"
-    court: str  # Must be defined on inheriting classes
+class Site(OpinionSiteLinear):
+    first_document_date = date(2018, 1, 1)
+    last_backscraper_date = date.today()
 
-    first_document_date: str  # in the %m/%d/%Y format
-    search_interval_days: int  # Size of interval were site returns less than 500 results
-    back_scrape_iterable: List[Tuple[str, str]]
+    # Size of interval must ensure that site returns
+    # less than 500 results. Otherwise site will error
+    search_interval_days = 100
+
+    back_scrape_iterable: List[Tuple[date, date]]
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
         self.court_id = self.__module__
+        self.url = "https://iapps.courts.state.ny.us/lawReporting/Search?searchType=opinion"
+        self.court = "Appellate Term, 1st Dept"
+
         self._set_parameters()
-        self.create_back_scrape_iterable()
+
+        self.back_scrape_iterable = make_date_range_tuples(
+            self.first_document_date,
+            self.last_backscraper_date,
+            self.search_interval_days,
+        )
 
     def _set_parameters(self) -> None:
         """Set the parameters for the POST request."""
@@ -29,38 +42,37 @@ class NYSlipDecisionsSite(OpinionSiteLinear):
         today = date.today()
         self.parameters = {
             "rbOpinionMotion": "opinion",
-            "Pty": "",
             "and_or": "and",
             "dtStartDate": (today - timedelta(days=30)).strftime("%m/%d/%Y"),
             "dtEndDate": today.strftime("%m/%d/%Y"),
             "court": self.court,
-            "docket": "",
-            "judge": "",
-            "slipYear": "",
-            "slipNo": "",
-            "OffVol": "",
-            "Rptr": "",
-            "OffPage": "",
-            "fullText": "",
             "and_or2": "and",
             "Order_By": "Decision Date",
             "Submit": "Find",
-            "hidden1": "",
-            "hidden2": "",
         }
 
-    def _process_html(self):
+    def _process_html(self) -> None:
         for row in self.html.xpath(".//table")[-1].xpath(".//tr")[1:]:
+            url = row.xpath(".//a")[0].get("href")
+            match = re.search(r"http.*(htm|pdf)", url)
+            url = match.group(0) if match else ""
+
+            name = row.xpath(".//td")[0].text_content().strip()
+
+            if not name:
+                # Happens with
+                # https://www.nycourts.gov/reporter/3dseries/2019/2019_29160.htm
+                # Filter with: 05/21/2019; 'Other Courts'; to find it
+                logger.info("Skipping row because it has no name %s" % url)
+                continue
+
             official_citation = " ".join(row.xpath("./td[4]//text()"))
             slip_cite = " ".join(row.xpath("./td[5]//text()"))
             status = "Unpublished" if "(U)" in slip_cite else "Published"
 
-            url = row.xpath(".//a")[0].get("href")
-            url = re.findall(r"(http.*htm)", url)[0]
-
             self.cases.append(
                 {
-                    "name": row.xpath(".//td")[0].text_content(),
+                    "name": name,
                     "date": row.xpath(".//td")[1].text_content(),
                     "url": url,
                     "status": status,
@@ -89,20 +101,10 @@ class NYSlipDecisionsSite(OpinionSiteLinear):
                 "docket_number": dockets[0][0] if dockets else "",
             },
         }
+
         return metadata
 
-    def create_back_scrape_iterable(self):
-        # TODO: wip
-        # TODO: redefine all the sources that use this template
-        self.first_document_date = "01/11/2001"
-        self.search_interval_days = 15
-
-        start_date = datetime.strptime(
-            self.first_document_date, "%m/%d/%Y"
-        ) - timedelta(days=1)
-        today = date.today()
-
-    def _download_backwards(self, date_range: Tuple[str, str]) -> None:
+    def _download_backwards(self, date_range: Tuple[date, date]) -> None:
         """Method used by backscraper to download historical records
 
         :param date_range: a tuple where the first member is the start date
@@ -111,11 +113,7 @@ class NYSlipDecisionsSite(OpinionSiteLinear):
         """
         self.parameters.update(
             {
-                "dtStartDate": date_range[0],
-                "dtEndDate": date_range[1],
+                "dtStartDate": date_range[0].strftime("%m/%d/%Y"),
+                "dtEndDate": date_range[1].strftime("%m/%d/%Y"),
             }
         )
-
-
-class Site(NYSlipDecisionsSite):
-    court = "Appellate Term, 1st Dept"

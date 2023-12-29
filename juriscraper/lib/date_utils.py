@@ -4,6 +4,7 @@ import datetime
 from datetime import date
 from itertools import zip_longest
 from math import ceil
+from typing import List, Tuple
 
 from dateutil.parser import parser, parserinfo
 from dateutil.rrule import DAILY, rrule
@@ -120,7 +121,9 @@ def fix_future_year_typo(future_date):
     return future_date
 
 
-def make_date_range_tuples(start, end, gap):
+def make_date_range_tuples(
+    start: date, end: date, gap: int
+) -> List[Tuple[date, date]]:
     """Make an iterable of date tuples for use in iterating forms
 
     For example, a form might allow start and end dates and you want to iterate
@@ -135,7 +138,6 @@ def make_date_range_tuples(start, end, gap):
     :param gap: the number of days, inclusive, that a query should span at a
     time.
 
-    :rtype list(tuple)
     :returns: list of start, end tuples
     """
     # We create a list of start dates and a list of end dates, then zip them
