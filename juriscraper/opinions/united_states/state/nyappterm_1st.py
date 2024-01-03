@@ -60,7 +60,8 @@ class Site(OpinionSiteLinear):
             name = row.xpath(".//td")[0].text_content().strip()
 
             if not name:
-                # Happens with
+                # Some opinions have been withdrawn from publication
+                # For example:
                 # https://www.nycourts.gov/reporter/3dseries/2019/2019_29160.htm
                 # Filter with: 05/21/2019; 'Other Courts'; to find it
                 logger.info("Skipping row because it has no name %s" % url)
