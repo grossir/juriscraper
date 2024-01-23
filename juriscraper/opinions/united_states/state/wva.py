@@ -5,7 +5,8 @@ from juriscraper.OpinionSite import OpinionSite
 class Site(OpinionSite):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.url = "http://www.courtswv.gov/supreme-court/opinions.html"
+        self.request['verify'] = 'certs/wva_certs.crt'
+        self.url = "https://www.courtswv.gov/appellate-courts/supreme-court-of-appeals/opinions"
         self.court_id = self.__module__
         self.cell_path = "//table/tbody/tr/td[%d]"
 
