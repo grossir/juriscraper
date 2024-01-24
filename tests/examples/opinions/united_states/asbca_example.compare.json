@@ -7,6 +7,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62281",
+    "judges": "Eyester",
     "case_name_shorts": "Granite Construction Company"
   },
   {
@@ -17,6 +18,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62592",
+    "judges": "Smith",
     "case_name_shorts": ""
   },
   {
@@ -27,6 +29,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63409",
+    "judges": "McIlmail",
     "case_name_shorts": "Flatland Realty, LLC"
   },
   {
@@ -37,6 +40,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63532",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -47,6 +51,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63276, 63367",
+    "judges": "Osterhout",
     "case_name_shorts": ""
   },
   {
@@ -57,6 +62,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63255",
+    "judges": "Smith",
     "case_name_shorts": ""
   },
   {
@@ -67,6 +73,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63148",
+    "judges": "Stinson",
     "case_name_shorts": "Korte Construction Company"
   },
   {
@@ -77,6 +84,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63273, 63542, 63608",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -87,6 +95,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63552",
+    "judges": "Thrasher",
     "case_name_shorts": "EDR Construction LLC"
   },
   {
@@ -97,6 +106,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62835, 62836, 62837, 62838, 62839, 62840",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -107,6 +117,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61320",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -117,6 +128,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62125",
+    "judges": "Osterhout",
     "case_name_shorts": "Alfajer, Ltd."
   },
   {
@@ -127,6 +139,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63464",
+    "judges": "Thrasher",
     "case_name_shorts": "LL1Way, LLC"
   },
   {
@@ -137,6 +150,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63259",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -147,6 +161,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63521",
+    "judges": "Arnett",
     "case_name_shorts": "MTS General Contracting"
   },
   {
@@ -157,6 +172,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63637-PET",
+    "judges": "Arnett",
     "case_name_shorts": "AeroKool Aviation Corp."
   },
   {
@@ -167,6 +183,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63716",
+    "judges": "Thrasher",
     "case_name_shorts": "Leebcor Services, LLC"
   },
   {
@@ -177,6 +194,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63646-ADR",
+    "judges": "McNulty",
     "case_name_shorts": "Industrial Marine, Inc."
   },
   {
@@ -187,6 +205,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63370, 63371, 63372, 63373, 63374, 63375",
+    "judges": "Arnett",
     "case_name_shorts": ""
   },
   {
@@ -197,6 +216,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63555",
+    "judges": "Arnett",
     "case_name_shorts": "N.A.C.E. Inc."
   },
   {
@@ -207,6 +227,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63600",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -217,6 +238,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63004, 63176",
+    "judges": "Woodrow",
     "case_name_shorts": "Pontchartrain Partners, LLC"
   },
   {
@@ -227,6 +249,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62422",
+    "judges": "McLish",
     "case_name_shorts": "IMC Construction Group"
   },
   {
@@ -237,6 +260,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63320",
+    "judges": "Arnett",
     "case_name_shorts": "SBA Contracting, LLC"
   },
   {
@@ -247,6 +271,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63484",
+    "judges": "Thrasher",
     "case_name_shorts": "SAF, Inc."
   },
   {
@@ -257,6 +282,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62684",
+    "judges": "Eyester",
     "case_name_shorts": "Incircle Management, Inc."
   },
   {
@@ -267,6 +293,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62109",
+    "judges": "Arnett",
     "case_name_shorts": "Sauer Incorporated"
   },
   {
@@ -277,6 +304,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63628",
+    "judges": "Shackleford",
     "case_name_shorts": "Kondazi Enterprise"
   },
   {
@@ -287,6 +315,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62482",
+    "judges": "Arnett",
     "case_name_shorts": "Sauer Incorporated"
   },
   {
@@ -297,6 +326,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63554",
+    "judges": "Shackleford",
     "case_name_shorts": "Fluor-AMEC II, LLC"
   },
   {
@@ -307,6 +337,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62641, 62643",
+    "judges": "Cates-Harman",
     "case_name_shorts": "Meltech Corporation, Inc."
   },
   {
@@ -317,6 +348,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63280, 63402",
+    "judges": "Melnick",
     "case_name_shorts": "Delfasco LLC"
   },
   {
@@ -327,6 +359,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63666",
+    "judges": "Thrasher",
     "case_name_shorts": "ETC International, LLC"
   },
   {
@@ -337,6 +370,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62124",
+    "judges": "Sweet",
     "case_name_shorts": "ECC International Constructors/Metag(JV)"
   },
   {
@@ -347,6 +381,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61986",
+    "judges": "Osterhout",
     "case_name_shorts": "Draughon, LLC"
   },
   {
@@ -357,6 +392,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63013",
+    "judges": "McLish",
     "case_name_shorts": ""
   },
   {
@@ -367,6 +403,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63415",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -377,6 +414,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62952, 62953, 62954, 62955, 63058",
+    "judges": "McIlmail",
     "case_name_shorts": ""
   },
   {
@@ -387,6 +425,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63516-ADR",
+    "judges": "Eyester",
     "case_name_shorts": ""
   },
   {
@@ -397,6 +436,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60414",
+    "judges": "McIlmail",
     "case_name_shorts": "ECCI-C METAG, JV"
   },
   {
@@ -407,6 +447,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63479",
+    "judges": "Woodrow",
     "case_name_shorts": ""
   },
   {
@@ -417,6 +458,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63635",
+    "judges": "Smith",
     "case_name_shorts": ""
   },
   {
@@ -427,6 +469,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63606",
+    "judges": "Thrasher",
     "case_name_shorts": "Whitehorn Construction, Inc."
   },
   {
@@ -437,6 +480,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62639",
+    "judges": "Hartman",
     "case_name_shorts": "Modus Operandi, Inc."
   },
   {
@@ -447,6 +491,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63466",
+    "judges": "Shackleford",
     "case_name_shorts": ""
   },
   {
@@ -457,6 +502,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62890",
+    "judges": "Herzfeld",
     "case_name_shorts": "Kallidus Technologies, Inc."
   },
   {
@@ -467,6 +513,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62897",
+    "judges": "Smith",
     "case_name_shorts": "BNN"
   },
   {
@@ -477,6 +524,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62957",
+    "judges": "Taylor",
     "case_name_shorts": "Derian, Inc."
   },
   {
@@ -487,6 +535,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63601",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -497,6 +546,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63233",
+    "judges": "Taylor",
     "case_name_shorts": ""
   },
   {
@@ -507,6 +557,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63578",
+    "judges": "Sweet",
     "case_name_shorts": ""
   },
   {
@@ -517,6 +568,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63404",
+    "judges": "Thrasher",
     "case_name_shorts": "The Boeing Company"
   },
   {
@@ -527,6 +579,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63190, 63319",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -537,6 +590,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63395",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -547,6 +601,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62402",
+    "judges": "Woodrow",
     "case_name_shorts": ""
   },
   {
@@ -557,6 +612,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63407",
+    "judges": "Arnett",
     "case_name_shorts": ""
   },
   {
@@ -567,6 +623,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62019",
+    "judges": "Wilson",
     "case_name_shorts": "D&J Machinery, Inc."
   },
   {
@@ -577,6 +634,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63449",
+    "judges": "Melnick",
     "case_name_shorts": ""
   },
   {
@@ -587,6 +645,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62561, 62640",
+    "judges": "McIlmail",
     "case_name_shorts": "Pangea, Inc."
   },
   {
@@ -597,6 +656,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63531",
+    "judges": "McIlmail",
     "case_name_shorts": ""
   },
   {
@@ -607,6 +667,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62972, 62973",
+    "judges": "Cates-Harman",
     "case_name_shorts": ""
   },
   {
@@ -617,6 +678,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63614",
+    "judges": "Eyester",
     "case_name_shorts": ""
   },
   {
@@ -627,6 +689,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63661-PET",
+    "judges": "Thrasher",
     "case_name_shorts": "Talu, LLC"
   },
   {
@@ -637,6 +700,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62813-ADR, 63067-ADR, 63068-ADR, 63118-ADR, 63119-ADR, 63120-ADR, 63121-ADR, 63122-ADR, 63123-ADR, 63124-ADR, 63125-ADR, 63126-ADR, 63127-ADR, 63128-ADR, 63129-ADR, 63130-ADR, 63131-ADR, 63132-ADR, 63133-ADR, 63134-ADR, 63135-ADR, 63136-ADR, 63137-ADR, 63138-ADR, 63139-ADR, 63140-ADR",
+    "judges": "Page",
     "case_name_shorts": ""
   },
   {
@@ -647,6 +711,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60541, 62144",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -657,6 +722,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63513",
+    "judges": "Thrasher",
     "case_name_shorts": "Ameresco, Inc."
   },
   {
@@ -667,6 +733,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62927",
+    "judges": "Eyester",
     "case_name_shorts": "StructSure Projects, Inc."
   },
   {
@@ -677,6 +744,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63268-ADR",
+    "judges": "Prouty",
     "case_name_shorts": "ANHAM FZCO"
   },
   {
@@ -687,6 +755,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63027, 63249",
+    "judges": "O'Connell",
     "case_name_shorts": ""
   },
   {
@@ -697,6 +766,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63482",
+    "judges": "Osterhout",
     "case_name_shorts": ""
   },
   {
@@ -707,6 +777,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62250, 62251",
+    "judges": "Wilson",
     "case_name_shorts": ""
   },
   {
@@ -717,6 +788,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62413, 62414",
+    "judges": "Stinson",
     "case_name_shorts": ""
   },
   {
@@ -727,6 +799,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61686, 62185",
+    "judges": "Smith",
     "case_name_shorts": "Innovative Technologies, Inc."
   },
   {
@@ -737,6 +810,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62678, 63081",
+    "judges": "Sweet",
     "case_name_shorts": "Pride Industries"
   },
   {
@@ -747,6 +821,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63531",
+    "judges": "McIlmail",
     "case_name_shorts": ""
   },
   {
@@ -757,6 +832,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63181",
+    "judges": "Shackleford",
     "case_name_shorts": ""
   },
   {
@@ -767,6 +843,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63294",
+    "judges": "Arnett",
     "case_name_shorts": "OSC Solutions, Inc."
   },
   {
@@ -777,6 +854,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62902-ADR",
+    "judges": "Cates-Harman",
     "case_name_shorts": "Desbuild, Inc."
   },
   {
@@ -787,6 +865,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63441",
+    "judges": "Young",
     "case_name_shorts": ""
   },
   {
@@ -797,6 +876,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63458",
+    "judges": "Eyester",
     "case_name_shorts": ""
   },
   {
@@ -807,6 +887,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63599, FY23-01",
+    "judges": "Taylor",
     "case_name_shorts": ""
   },
   {
@@ -817,6 +898,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63228",
+    "judges": "Shackleford",
     "case_name_shorts": "CJW Contractors, Inc."
   },
   {
@@ -827,6 +909,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62604, 62751",
+    "judges": "O'Connell",
     "case_name_shorts": "USA Environmental, Inc."
   },
   {
@@ -837,6 +920,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63093",
+    "judges": "McLish",
     "case_name_shorts": ""
   },
   {
@@ -847,6 +931,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61960",
+    "judges": "Prouty",
     "case_name_shorts": "Goodloe Marine, Inc."
   },
   {
@@ -857,6 +942,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62764-EAJA",
+    "judges": "O'Connell",
     "case_name_shorts": "ATECH, Inc."
   },
   {
@@ -867,6 +953,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62002, 62170",
+    "judges": "Eyester",
     "case_name_shorts": ""
   },
   {
@@ -877,6 +964,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62093-ADR, 62818-ADR",
+    "judges": "Wilson",
     "case_name_shorts": ""
   },
   {
@@ -887,6 +975,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63613",
+    "judges": "Shackleford",
     "case_name_shorts": "Raytheon Company"
   },
   {
@@ -897,6 +986,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62031, 62033, 62034",
+    "judges": "McIlmail",
     "case_name_shorts": "KHS Corporation"
   },
   {
@@ -907,6 +997,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62422",
+    "judges": "McLish",
     "case_name_shorts": "IMC Construction Group"
   },
   {
@@ -917,6 +1008,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63111",
+    "judges": "McIlmail",
     "case_name_shorts": ""
   },
   {
@@ -927,6 +1019,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62617",
+    "judges": "Herzfeld",
     "case_name_shorts": ""
   },
   {
@@ -937,6 +1030,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63400-ADR",
+    "judges": "McLish",
     "case_name_shorts": "Phoenix Management, Inc."
   },
   {
@@ -947,6 +1041,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62165",
+    "judges": "Stinson",
     "case_name_shorts": "Northrop Grumman Corporation"
   },
   {
@@ -957,6 +1052,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63406",
+    "judges": "Thrasher",
     "case_name_shorts": "USA Environmental, Inc."
   },
   {
@@ -967,6 +1063,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62673, 63108",
+    "judges": "Thrasher",
     "case_name_shorts": "The Boeing Company"
   },
   {
@@ -977,6 +1074,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62550, 62672",
+    "judges": "Herzfeld",
     "case_name_shorts": "Fluor Intercontinental, Inc."
   },
   {
@@ -987,6 +1085,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63396",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -997,6 +1096,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62906",
+    "judges": "Prouty",
     "case_name_shorts": ""
   },
   {
@@ -1007,6 +1107,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63618",
+    "judges": "Thrasher",
     "case_name_shorts": "Jacobs Technology Inc."
   },
   {
@@ -1017,6 +1118,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63508",
+    "judges": "Taylor",
     "case_name_shorts": "Gilbert Solutions, LLC"
   },
   {
@@ -1027,6 +1129,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63534, 63535",
+    "judges": "Arnett",
     "case_name_shorts": ""
   },
   {
@@ -1037,6 +1140,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62779",
+    "judges": "Sweet",
     "case_name_shorts": "RLB Contracting, Inc."
   },
   {
@@ -1047,6 +1151,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62938, 62939, 62940",
+    "judges": "Prouty",
     "case_name_shorts": "Afghan Premier Logistics"
   },
   {
@@ -1057,6 +1162,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63619",
+    "judges": "Shackleford",
     "case_name_shorts": "Constellation NewEnergy, Inc."
   },
   {
@@ -1067,6 +1173,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63331",
+    "judges": "Shackleford",
     "case_name_shorts": ""
   },
   {
@@ -1077,6 +1184,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63411",
+    "judges": "Shackleford",
     "case_name_shorts": "Alegna, Inc."
   },
   {
@@ -1087,6 +1195,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61320",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -1097,6 +1206,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63286",
+    "judges": "O'Connell",
     "case_name_shorts": "Honeywell International, Inc."
   },
   {
@@ -1107,6 +1217,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63531",
+    "judges": "McIlmail",
     "case_name_shorts": ""
   },
   {
@@ -1117,6 +1228,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63576",
+    "judges": "Thrasher",
     "case_name_shorts": "Obera LLC"
   },
   {
@@ -1127,6 +1239,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62003",
+    "judges": "O'Connell",
     "case_name_shorts": "KEAR Civil Corporation"
   },
   {
@@ -1137,6 +1250,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63579",
+    "judges": "Thrasher",
     "case_name_shorts": "Gilbane Federal"
   },
   {
@@ -1147,6 +1261,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62518-ADR",
+    "judges": "O'Connell",
     "case_name_shorts": "Constellation NewEnergy, Inc."
   },
   {
@@ -1157,6 +1272,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63399",
+    "judges": "Taylor",
     "case_name_shorts": "3Vesta LLC"
   },
   {
@@ -1167,6 +1283,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62448, 62739, 62740",
+    "judges": "Woodrow",
     "case_name_shorts": ""
   },
   {
@@ -1177,6 +1294,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63333, 63480, 63481",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1187,6 +1305,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62508-ADR",
+    "judges": "Herzfeld",
     "case_name_shorts": "Blanchard's Contracting, LLC"
   },
   {
@@ -1197,6 +1316,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60426, 60427, 60428, 60689, 60690, 60691, 61252, 61402, 61715",
+    "judges": "Prouty",
     "case_name_shorts": "Amatea/Grimberg JV"
   },
   {
@@ -1207,6 +1327,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63486",
+    "judges": "Shackleford",
     "case_name_shorts": "Aerojet Rocketdyne, Inc."
   },
   {
@@ -1217,6 +1338,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63452",
+    "judges": "Shackleford",
     "case_name_shorts": "Allied Pacific Builders"
   },
   {
@@ -1227,6 +1349,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63457",
+    "judges": "Stinson",
     "case_name_shorts": "Speedway Orion JV"
   },
   {
@@ -1237,6 +1360,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63267",
+    "judges": "Thrasher",
     "case_name_shorts": "Astro Systems Inc."
   },
   {
@@ -1247,6 +1371,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63013",
+    "judges": "McLish",
     "case_name_shorts": ""
   },
   {
@@ -1257,6 +1382,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63093",
+    "judges": "McLish",
     "case_name_shorts": ""
   },
   {
@@ -1267,6 +1393,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63492-ADR, 63499-ADR, 63500-ADR",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -1277,6 +1404,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60167, 60283",
+    "judges": "Eyester",
     "case_name_shorts": "ECC International, LLC"
   },
   {
@@ -1287,6 +1415,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63198",
+    "judges": "Thrasher",
     "case_name_shorts": "American Ordnance LLC"
   },
   {
@@ -1297,6 +1426,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60541, 62144",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1307,6 +1437,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63309",
+    "judges": "Thrasher",
     "case_name_shorts": "Spectrum Management, LLC"
   },
   {
@@ -1317,6 +1448,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63353, 63383",
+    "judges": "Woodrow",
     "case_name_shorts": ""
   },
   {
@@ -1327,6 +1459,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62719",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1337,6 +1470,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63146",
+    "judges": "McLish",
     "case_name_shorts": "Safaa Al-Rawaby Company"
   },
   {
@@ -1347,6 +1481,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62753",
+    "judges": "Herzfeld",
     "case_name_shorts": ""
   },
   {
@@ -1357,6 +1492,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62986, 63022",
+    "judges": "D'Alessandris",
     "case_name_shorts": ""
   },
   {
@@ -1367,6 +1503,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63278",
+    "judges": "Taylor",
     "case_name_shorts": ""
   },
   {
@@ -1377,6 +1514,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60475",
+    "judges": "O'Connell",
     "case_name_shorts": ""
   },
   {
@@ -1387,6 +1525,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61415, 61416, 61417, 61418, 61419, 61420",
+    "judges": "Woodrow",
     "case_name_shorts": "Triple Canopy, Inc."
   },
   {
@@ -1397,6 +1536,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63443",
+    "judges": "Thrasher",
     "case_name_shorts": "Adelaide Services, LLC"
   },
   {
@@ -1407,6 +1547,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63090",
+    "judges": "Herzfeld",
     "case_name_shorts": ""
   },
   {
@@ -1417,6 +1558,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63459",
+    "judges": "Eyester",
     "case_name_shorts": ""
   },
   {
@@ -1427,6 +1569,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63439-ADR",
+    "judges": "McLish",
     "case_name_shorts": "Pontchartrain Partners, LLC"
   },
   {
@@ -1437,6 +1580,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62871",
+    "judges": "Arnett",
     "case_name_shorts": "MILCON Construction, LLC"
   },
   {
@@ -1447,6 +1591,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63146",
+    "judges": "McLish",
     "case_name_shorts": "Safaa Al-Rawaby Company"
   },
   {
@@ -1457,6 +1602,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63117",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1467,6 +1613,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63360-ADR",
+    "judges": "Hartman",
     "case_name_shorts": "The Boeing Company"
   },
   {
@@ -1477,6 +1624,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62926",
+    "judges": "Woodrow",
     "case_name_shorts": "SGS, LLC"
   },
   {
@@ -1487,6 +1635,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63305, 63306, 63307",
+    "judges": "Thrasher",
     "case_name_shorts": "Gilbane Federal"
   },
   {
@@ -1497,6 +1646,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63107-ADR",
+    "judges": "Prouty",
     "case_name_shorts": "Forney Enterprises, Inc."
   },
   {
@@ -1507,6 +1657,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63019, 63020",
+    "judges": "McNulty",
     "case_name_shorts": "Flatiron/Dragados/Sukut Joint Venture"
   },
   {
@@ -1517,6 +1668,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63435",
+    "judges": "Thrasher",
     "case_name_shorts": "Xerox Corporation"
   },
   {
@@ -1527,6 +1679,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63007, 63008",
+    "judges": "Sweet",
     "case_name_shorts": "David Boland, Inc."
   },
   {
@@ -1537,6 +1690,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62422",
+    "judges": "McLish",
     "case_name_shorts": "IMC Construction Group"
   },
   {
@@ -1547,6 +1701,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "59638, 60136, 60526",
+    "judges": "Herzfeld",
     "case_name_shorts": "Ameresco Select, Inc."
   },
   {
@@ -1557,6 +1712,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61898, 62095",
+    "judges": "Arnett",
     "case_name_shorts": "O-Tech Solutions, LLC"
   },
   {
@@ -1567,6 +1723,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63385",
+    "judges": "Taylor",
     "case_name_shorts": "Monbo Group International"
   },
   {
@@ -1577,6 +1734,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62317, 62320, 62511, 62512, 62513, 62514, 62515, 62516",
+    "judges": "Thrasher",
     "case_name_shorts": "Lockheed Martin Corporation"
   },
   {
@@ -1587,6 +1745,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63418-ADR",
+    "judges": "Arnett",
     "case_name_shorts": "Wynsor, LLC"
   },
   {
@@ -1597,6 +1756,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61415, 61416, 61417, 61418, 61419, 61420",
+    "judges": "Woodrow",
     "case_name_shorts": "Triple Canopy, Inc."
   },
   {
@@ -1607,6 +1767,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63015",
+    "judges": "Woodrow",
     "case_name_shorts": ""
   },
   {
@@ -1617,6 +1778,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63194",
+    "judges": "McIlmail",
     "case_name_shorts": "JE Dunn Construction"
   },
   {
@@ -1627,6 +1789,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63351",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1637,6 +1800,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63057",
+    "judges": "O'Connell",
     "case_name_shorts": "SupplyCore, Inc."
   },
   {
@@ -1647,6 +1811,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63141, 63142, 63526",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1657,6 +1822,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62242, 62243, 63222",
+    "judges": "McIlmail",
     "case_name_shorts": "ESA South, Inc."
   },
   {
@@ -1667,6 +1833,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62891",
+    "judges": "McIlmail",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1677,6 +1844,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63146",
+    "judges": "McLish",
     "case_name_shorts": "Safaa Al-Rawaby Company"
   },
   {
@@ -1687,6 +1855,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63453",
+    "judges": "Shackleford",
     "case_name_shorts": ""
   },
   {
@@ -1697,6 +1866,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63001",
+    "judges": "",
     "case_name_shorts": ""
   },
   {
@@ -1707,6 +1877,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63355",
+    "judges": "McLish",
     "case_name_shorts": ""
   },
   {
@@ -1717,6 +1888,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60129",
+    "judges": "Cates-Harman",
     "case_name_shorts": "Voxtel, Inc."
   },
   {
@@ -1727,6 +1899,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62779",
+    "judges": "Sweet",
     "case_name_shorts": "RLB Contracting, Inc."
   },
   {
@@ -1737,6 +1910,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62851",
+    "judges": "Thrasher",
     "case_name_shorts": "AOSense, Inc."
   },
   {
@@ -1747,6 +1921,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62498, 62567, 62609, 62745, 62746, 62810, 62930, 62977, 63010, 63053, 63082, 63180",
+    "judges": "McIlmail",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1757,6 +1932,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62497, 62499, 62565, 62566, 62608, 62677, 62688, 62699, 62710, 62744, 62809, 62947, 63209",
+    "judges": "McIlmail",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1767,6 +1943,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63312, 63313, 63314",
+    "judges": "Taylor",
     "case_name_shorts": ""
   },
   {
@@ -1777,6 +1954,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62500, 62568, 62610, 62892, 62976, 63016",
+    "judges": "McIlmail",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1787,6 +1965,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62683",
+    "judges": "Arnett",
     "case_name_shorts": "Bullock Construction Inc."
   },
   {
@@ -1797,6 +1976,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63179",
+    "judges": "Eyester",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1807,6 +1987,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63178",
+    "judges": "Eyester",
     "case_name_shorts": "Thalle Construction Company"
   },
   {
@@ -1817,6 +1998,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63518",
+    "judges": "Thrasher",
     "case_name_shorts": "Honeywell International, Inc."
   },
   {
@@ -1827,6 +2009,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63524",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1837,6 +2020,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63255",
+    "judges": "Smith",
     "case_name_shorts": ""
   },
   {
@@ -1847,6 +2031,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62012-ADR, 62380-ADR, 63091-ADR, 63446-ADR, 63447-ADR",
+    "judges": "Sweet",
     "case_name_shorts": "Andritz Hydro Corporation"
   },
   {
@@ -1857,6 +2042,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62067",
+    "judges": "Eyester",
     "case_name_shorts": "Shneez Veritas, LLC"
   },
   {
@@ -1867,6 +2053,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63427",
+    "judges": "Taylor",
     "case_name_shorts": "GS Environmental Inc."
   },
   {
@@ -1877,6 +2064,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62607",
+    "judges": "Thrasher",
     "case_name_shorts": "Vigor Works, LLC"
   },
   {
@@ -1887,6 +2075,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "60451-EAJA",
+    "judges": "Taylor",
     "case_name_shorts": "CKY, Inc."
   },
   {
@@ -1897,6 +2086,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61633, 61731",
+    "judges": "Melnick",
     "case_name_shorts": ""
   },
   {
@@ -1907,6 +2097,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63467",
+    "judges": "Thrasher",
     "case_name_shorts": "Carahsoft Technology Corp."
   },
   {
@@ -1917,6 +2108,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61651",
+    "judges": "Young",
     "case_name_shorts": "Vectrus Systems Corporation"
   },
   {
@@ -1927,6 +2119,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63451",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1937,6 +2130,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "61743, 61744, 61745",
+    "judges": "Herzfeld",
     "case_name_shorts": ""
   },
   {
@@ -1947,6 +2141,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63290",
+    "judges": "Sweet",
     "case_name_shorts": "ServeFed, Inc."
   },
   {
@@ -1957,6 +2152,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63476, 63477",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -1967,6 +2163,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62432",
+    "judges": "Young",
     "case_name_shorts": ""
   },
   {
@@ -1977,6 +2174,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63403",
+    "judges": "Melnick",
     "case_name_shorts": ""
   },
   {
@@ -1987,6 +2185,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63283",
+    "judges": "Young",
     "case_name_shorts": "Derian, Inc."
   },
   {
@@ -1997,6 +2196,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63037",
+    "judges": "Stinson",
     "case_name_shorts": ""
   },
   {
@@ -2007,6 +2207,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62895",
+    "judges": "Thrasher",
     "case_name_shorts": "ArmorSource, LLC"
   },
   {
@@ -2017,6 +2218,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62003, 62118",
+    "judges": "O'Connnell",
     "case_name_shorts": "KEAR Civil Corporation"
   },
   {
@@ -2027,6 +2229,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63076, 63077, 63078, 63079",
+    "judges": "Stinson",
     "case_name_shorts": "Betance Enterprises, Inc."
   },
   {
@@ -2037,6 +2240,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63494",
+    "judges": "Taylor",
     "case_name_shorts": "Tridentis, LLC"
   },
   {
@@ -2047,6 +2251,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63083",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -2057,6 +2262,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63228",
+    "judges": "Shackleford",
     "case_name_shorts": "CJW Contractors Inc."
   },
   {
@@ -2067,6 +2273,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63149, 63150",
+    "judges": "Prouty",
     "case_name_shorts": ""
   },
   {
@@ -2077,6 +2284,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63294",
+    "judges": "Arnett",
     "case_name_shorts": "OSC Solutions, Inc."
   },
   {
@@ -2087,6 +2295,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63089",
+    "judges": "D'Alessandris",
     "case_name_shorts": "MicroTechnologies, LLC"
   },
   {
@@ -2097,6 +2306,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63116",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -2107,6 +2317,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62748",
+    "judges": "Witwer",
     "case_name_shorts": "Leebcor Services, LLC"
   },
   {
@@ -2117,6 +2328,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63365",
+    "judges": "Thrasher",
     "case_name_shorts": "Triun, LLC"
   },
   {
@@ -2127,6 +2339,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62642",
+    "judges": "Cates-Harman",
     "case_name_shorts": "Meltech Corporation, Inc."
   },
   {
@@ -2137,6 +2350,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63403",
+    "judges": "Melnick",
     "case_name_shorts": ""
   },
   {
@@ -2147,6 +2361,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62803",
+    "judges": "Page",
     "case_name_shorts": "Vertex Aerospace, LLC"
   },
   {
@@ -2157,6 +2372,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "63113",
+    "judges": "Thrasher",
     "case_name_shorts": ""
   },
   {
@@ -2167,6 +2383,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62709-ADR",
+    "judges": "McNulty",
     "case_name_shorts": "Sauer Incorporated"
   },
   {
@@ -2177,6 +2394,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62775-ADR",
+    "judges": "Eyester",
     "case_name_shorts": "SMR Construction, Inc."
   },
   {
@@ -2187,6 +2405,7 @@
     "blocked_statuses": false,
     "date_filed_is_approximate": false,
     "docket_numbers": "62164-ADR",
+    "judges": "D'Alessandris",
     "case_name_shorts": "Mountain Movers/Aimsworth-Benning, LLC"
   }
 ]
