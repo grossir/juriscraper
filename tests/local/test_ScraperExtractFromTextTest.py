@@ -501,10 +501,12 @@ class ScraperExtractFromText(unittest.TestCase):
 
     def test_extract_from_text_properly_implemented(self):
         """Ensure that extract_from_text is properly implemented."""
-
         module_strings = build_module_list(
             "juriscraper.opinions.united_states"
+        ) + build_module_list(
+            "juriscraper.opinions.united_states_backscrapers"
         )
+
         for module_string in module_strings:
             package, module = module_string.rsplit(".", 1)
             mod = __import__(

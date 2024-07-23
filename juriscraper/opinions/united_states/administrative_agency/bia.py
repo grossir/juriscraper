@@ -24,6 +24,7 @@ class Site(OpinionSiteLinear):
         self.volume = 0
         self.urls = None
         self.status = "Published"
+        self.back_scrape_iterable = range(0, 21)
 
     def _process_html(self) -> None:
         if not self.test_mode_enabled():
@@ -79,3 +80,14 @@ class Site(OpinionSiteLinear):
             },
         }
         return metadata
+
+    def _download_backwards(self, volume: int) -> None:
+        """Download backwards over the volume links in the DOJ BIA website.
+
+        :param volume: The volume index for the URL
+        :return: None
+        """
+        self.volume = volume
+        if not self.urls:
+            self.html = self._download()
+        self._process_html()
